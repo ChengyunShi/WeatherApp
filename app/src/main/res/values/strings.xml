@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="tab_today">TODAY</string>
+    <string name="tab_weekly">WEEKLY</string>
+    <string name="tab_photos">PHOTOS</string>
+    <string name="Humidity">Humidity</string>
+    <string name="WindSpeed">Wind Speed</string>
+    <string name="Visibility">Visibility</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Precipitation">Precipitation</string>
+    <string name="Temperature">Temperature</string>
+    <string name="CloudCover">Cloud Cover</string>
+    <string name="Ozone">Ozone</string>
+    <string name="action_twitter">Twitter</string>
+    <string name="action_search">Search</string>
+    <string name="progress_bar">Fetching Weather</string>
+    <string name="search_hint">Search...</string>
+    <string name="search_result">Search Result</string>
+    <string name="preference_file_key">edu.cshi5131.forecastapplication.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
